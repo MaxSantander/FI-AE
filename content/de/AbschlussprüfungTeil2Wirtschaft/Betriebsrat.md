@@ -8,6 +8,7 @@ description: "Der Betriebsrat dient der Vertretung der Arbeiterinteressen im Bet
 ---
   
 Der Betriebsrat arbeitet zusammen mit der Geschäftsführung am Wohl der Mitarbeiter und des Unternehmens.
+Test by Max.
 
 - Möglich ab mindestens 5 Arbeitnehmern
 - Amtszeit ist 4 Jahre
